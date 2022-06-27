@@ -1,0 +1,47 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #f1f6f7;
+}
+
+.logo-tropical{
+    width:50px;
+    height: 50px;
+}
+
+.home{
+    text-align: center;
+    color: #f0b103;
+    margin-top: 5px;
+}
+
+.carousel-inner{
+    height: 25rem;
+    margin-top: 3px;
+}
+
+.destino{
+    margin-top: 40px;
+    text-align: start;
+}
+
+.card{
+    margin-top: 30px;
+    height: 20rem;
+}
+
+.contato{
+    margin-top: 50px;
+    text-align: center;
+    color: #f0b103;
+}
+
+#info{
+    color:#000000;
+}
+
+
+footer{
+    text-align: center;
+    color: #808080;
+    font-size: small;
+}
