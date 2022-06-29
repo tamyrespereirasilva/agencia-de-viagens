@@ -3,30 +3,29 @@ body{
     background-color: #f1f6f7;
 }
 
-.logo-tropical{
-    width:50px;
-    height: 50px;
-}
-
-.home{
-    text-align: center;
-    color: #f0b103;
-    margin-top: 5px;
-}
-
-.carousel-inner{
-    height: 25rem;
-    margin-top: 3px;
-}
-
 .destino{
     margin-top: 40px;
-    text-align: start;
+    text-align: center;
+}
+
+.destino h4{
+    color:#f0b103;
 }
 
 .card{
     margin-top: 30px;
-    height: 20rem;
+    width: 18rem;
+}
+
+.card-img-top{
+    width: 286px;
+    height: 180px;
+}
+
+.promocoes{
+    margin-top: 40px;
+    text-align: center;
+    color: #f0b103;
 }
 
 .contato{
@@ -34,6 +33,7 @@ body{
     text-align: center;
     color: #f0b103;
 }
+
 
 #info{
     color:#000000;
